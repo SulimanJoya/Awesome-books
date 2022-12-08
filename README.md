@@ -30,7 +30,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[Awesome-Books]** is a web app for adding & removing books in a of list books.
+**[Awesome-Books]** is a web app for adding & removing books in a list of books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -84,7 +84,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://sulimanjoya.github.io/Awesome-books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

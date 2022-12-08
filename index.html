@@ -1,14 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Awesome Books</title>
-  <link rel="stylesheet" href="./CSS/style.css">
-</head>
-<body>
-  
-  <script src="./JS/Script.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome Books</title>
+    <link rel="stylesheet" href="./CSS/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Awesome Books</h1>
+      <table class="table">
+        <!-- <thead>
+          <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <input
+            type="submit"
+            value="Remove"
+            class="btn"
+          />
+          </tr>
+        </thead>
+        <tbody id="book-list"></tbody> -->
+      </table>
+      <form id="book-form">
+        <div class="form-group">
+          <input type="text" id="title" class="form-control" placeholder="Title" />
+        </div>
+        <br>
+        <div class="form-group">
+          <input type="text" id="author" class="form-control" placeholder="Author" />
+        </div>
+        <br>
+        <input
+          type="submit"
+          value="Add Book"
+          class="btn"
+        />
+      </form>
+    </div>
+
+    <script src="./JS/Script.js"></script>
+  </body>
 </html>

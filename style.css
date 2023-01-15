@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Balsamiq Sans', sans-serif;
+  font-family: "Balsamiq Sans", sans-serif;
   font-weight: 600;
   font-style: normal;
 }
@@ -34,7 +34,7 @@ form {
 }
 
 .booksList {
-  width: 95%;
+  width: 80%;
   border: 2px #000 solid;
   margin: 0 auto;
 }
@@ -130,6 +130,11 @@ li {
   display: flex;
   flex-direction: row-reverse;
   margin: 0 10%;
+}
+
+.contact-header,
+.contact-text {
+  margin: 10px 0;
 }
 
 footer {

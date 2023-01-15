@@ -84,7 +84,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://raphdasilva.github.io/Awesome-books/)
+- [Live Demo Link](https://sulimanjoya.github.io/Awesome-books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
